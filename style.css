@@ -42,6 +42,14 @@
 	z-index: 2;
 }
 
+.download6{
+	color: linear-gradient(to bottom right, #3333ff 0%, #800000 100%);
+	position: absolute;
+	top: 420%;
+	transform: translateY(-50);
+	z-index: 2;
+}
+
 a{
 	display: block;
 	background: linear-gradient(to bottom right, #ff0066 0%, #3366cc 100%);
